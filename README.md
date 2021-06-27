@@ -1,6 +1,6 @@
 ## Some projects
 
-- [Movie ticket manager with PHP, JavaScript, jQuery and MySQL](http://moviepass.epizy.com)
+- [Movie ticket manager with PHP, jQuery and MySQL](http://moviepass.epizy.com)
 - [Notes manager with MongoDB, Express, React and Node.js](http://mynotelist.herokuapp.com)
 - [Calculator with React](https://codepen.io/gaspartrip/full/RwrzqaL)
 - [Pomodoro clock with React](https://codepen.io/gaspartrip/full/JjGQQxy)
